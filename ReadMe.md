@@ -1,6 +1,4 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-
-<img src="./fallout.gif" style="border-radius:10px"/>
+<img style="height:300px;width:100vw;border-radius:10px" src="./fallout.gif" />
 
 <h1 style="text-align:center">Hi 👋 I'm Srijan Gyawali</h1>
 
@@ -35,11 +33,14 @@
 ---
 
 #### Reach Me On
-<div style="padding:0px 0px 10px 0px; display:flex;gap:10px">
-<i style="font-size:30px;color: #833ab4;" class="fa-brands fa-instagram"></i>
-<i style="font-size:30px; color:#0072b1" class="fa-brands fa-linkedin"></i>
+<div style="width:100vw;justify-content:center;padding:0px 0px 10px 0px; display:flex;gap:15px;align-items:center">
+    <a href="https://www.linkedin.com/in/srijan-gyawali-66103b277/" target="_blank">
+    <img height="20px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /></a>
+    <a href="https://www.instagram.com/srijangyawali_00/" target="_blank">
+    <img height="20px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
+        </a>
 </div>
 
 
 
-<p style="text-align:center">Let’s connect and create something amazing! 🚀</p>
+<p style="text-align:center;width:100vw">Let’s connect and create something amazing! 🚀</p>
